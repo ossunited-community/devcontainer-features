@@ -1,0 +1,9 @@
+{
+  "id": "gitsign",
+  "version": "1.0.0",
+  "name": "Sigstore with Gitsign",
+  "documentationURL": "https://github.com/sigstore/gitsign",
+  "description": "Installs gitsign for Git commit signing with Sigstore.",
+  "options": {},
+  "customizations": {}
+}
