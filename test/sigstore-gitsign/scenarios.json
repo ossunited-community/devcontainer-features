@@ -1,0 +1,8 @@
+{
+    "sigstore-gitsign": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "sigstore-gitsign": {}
+        }
+    }
+}
