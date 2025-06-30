@@ -9,5 +9,17 @@
                 "greeting": "Greetings"
             }
         }
+    },
+    "color_and_hello_and_gitsign": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "color": {
+                "favorite": "purple"
+            },
+            "hello": {
+                "greeting": "Greetings"
+            },
+            "sigstore-gitsign": {}
+        }
     }
 }
