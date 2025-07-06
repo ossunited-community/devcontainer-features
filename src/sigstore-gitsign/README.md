@@ -7,7 +7,7 @@ Installs gitsign for Git commit signing with Sigstore.
 
 ```json
 "features": {
-    "ghcr.io/ossunited-community/devcontainer-features/sigstore-gitsign:1": {}
+    "ghcr.io/ossunited/devcontainer-features/sigstore-gitsign:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs gitsign for Git commit signing with Sigstore.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ossunited-community/devcontainer-features/blob/main/src/sigstore-gitsign/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ossunited/devcontainer-features/blob/main/src/sigstore-gitsign/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
