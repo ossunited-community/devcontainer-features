@@ -7,7 +7,7 @@ A feature to remind you of your favorite color
 
 ```json
 "features": {
-    "ghcr.io/ossunited-community/devcontainer-features/color:1": {}
+    "ghcr.io/ossunited/devcontainer-features/color:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A feature to remind you of your favorite color
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ossunited-community/devcontainer-features/blob/main/src/color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ossunited/devcontainer-features/blob/main/src/color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
